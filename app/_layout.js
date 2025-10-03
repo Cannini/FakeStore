@@ -1,4 +1,4 @@
-// app/_layout.js
+
 
 import { Stack, useRouter } from 'expo-router';
 import { Text, TouchableOpacity } from 'react-native';

@@ -1,4 +1,4 @@
-// app/index.js
+
 
 import axios from 'axios';
 import { useRouter } from 'expo-router';
